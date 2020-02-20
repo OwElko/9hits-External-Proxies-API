@@ -1,9 +1,9 @@
 <?php
 
-$host		=	"localhost";
-$user		=	"username";
-$pass		=	"password";
-$name    	=	"proxiesdatabase";
+$host		=	"localhost"; // your server host 'default localhost'
+$user		=	"username"; // your database username
+$pass		=	"password"; // your database password
+$name    	=	"proxiesdatabase"; // your database name
 
 ini_set('display_errors', '0');
 error_reporting(0);
