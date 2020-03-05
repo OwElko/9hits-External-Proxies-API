@@ -21,5 +21,5 @@ add link to 9hits External Proxies
 
 ## CREDITS TO
 
- - Daniel9
+ - [Daniel] 9(https://github.com/9hitste)
  - [OwElko](https://github.com/OwElko)
