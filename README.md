@@ -18,8 +18,3 @@ add link to 9hits External Proxies
 ![enter image description here](https://i.ibb.co/2gHZ3MS/download.png)
 
 **
-
-## CREDITS TO
-
- - [Hassan](https://www.facebook.com/hassan.akhatar.14)
- - [OwElko](https://github.com/OwElko)
