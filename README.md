@@ -1,6 +1,6 @@
 # 9hits-External-Proxies-API
 
-Simple PHP for 9hits Exchange API calls
+Simple PHP for [9hits Exchange](https://9hits.com/?ref=1414) API calls
 
 **Requirements** 
 
