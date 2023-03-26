@@ -1,10 +1,11 @@
 # 9hits-External-Proxies-API
 
+Need a Good hosting check : [High Quality VPS](http://bit.ly/50OFFT4V)
 Simple PHP for [9hits Exchange](https://9hits.com/?ref=1414) API calls
 
 **Requirements** 
 
-- [x] PHP Hosting
+- [x] PHP Hosting - [BEST VPS HOSTING](http://bit.ly/50OFFT4V)
 - [x] SQL Database of proxies
 
 **Instalation**
@@ -18,3 +19,7 @@ add link to 9hits External Proxies
 ![enter image description here](https://i.ibb.co/2gHZ3MS/download.png)
 
 **
+**Help & Contact**
+
+- Discord : https://discord.gg/X9cGemkj
+- Telegram (NOT AVAILABLE)
